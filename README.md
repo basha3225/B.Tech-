@@ -1,1 +1,1 @@
-# B.Tech-
+# B.Tech-Designed and developed a solar-powered refrigeration system utilizing ammonia as a refrigerant (R-717) and Integrated a 60W solar panel with a DC battery to operate a pump and induction heater in the Refrigeration System 
